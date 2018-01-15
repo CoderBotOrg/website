@@ -1,0 +1,60 @@
+---
+layout: en/post
+title:  "CoderBot al MeetMeTonight 2016: un robot per giocare a pensare"
+subtitle: ""
+splash: "blog/coderbot_mmt16_intro.jpg"
+date:   2016-10-01 12:00:00
+category: blog
+tags:   news
+author: CoderBot
+language: en
+---
+Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico e un simpatico incontro con personaggi a dir poco "mitici".
+
+![intro]({{site.baseurl}}/img/blog/coderbot_mmt16_intro.jpg)
+
+### Il MeetMeTonight 2016
+La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.
+
+### Le attività con CoderBot
+Quest'anno CoderBot era presente presso lo stand del Dipartimento di Scienze Umane per la Formazione “R. Massa”, Università degli Studi di Milano-Bicocca, con tre laboratori permanenti a disposizione dei bambini e ragazzi.
+
+Quest'anno i laboratori erano tre, corrispondenti a giochi didattici con diversi approcci e finalità.
+
+### Il gioco dello scienziato
+In questo gioco, detto anche "roboetologia", i ragazzi osservano un CoderBot già programmato per muoversi in una arena delimitata in base a un algoritmo non noto all'osservatore.
+
+Il robot assume il ruolo di un "essere sconosciuto" da osservare e descrivere.
+
+[![scienziato](http://img.youtube.com/vi/cxE1B5NhufE/0.jpg)](http://www.youtube.com/watch?v=cxE1B5NhufE)
+
+L'attività consiste quindi **nell'applicare le tecniche del metodo scientifico per ipotizzare la natura dei comportamenti assunti dal robot**: perché si muove in quel modo? Perché ogni tanto si ferma? A volte rallenta o è solo una impressione?
+
+### Caccia al tesoro
+Questo gioco sfrutta la caratteristica di CoderBot di essere dotato di una telecamera in grado di riprendere le immagini dello spazio posto di fronte al robot stesso.
+
+[![caccialtesoro](http://img.youtube.com/vi/AH7c45HfQQk/0.jpg)](http://www.youtube.com/watch?v=AH7c45HfQQk)
+
+Le immagini, acquisite nel corso dell'esecuzione del programma, sono rivedibili come filmato anche successivamente dagli utilizzatori.
+
+Il gioco consiste nel programmare il robot in modo da moversi in un ambiente sconosciuto per cercare e trovare degli obiettivi di interesse (il tesoro) ed evitare degli altri obiettivi "ostili" (pirati e mostri marini).
+
+### Il gioca del gatto e il topo
+
+In questo gioco a squadre, due CoderBot impersonano rispettivamente un "predatore" (il gatto) e una "preda" (il topo).
+
+[![gattotopo](https://img.youtube.com/vi/AH7c45HfQQk/0.jpg)](https://www.youtube.com/watch?v=AH7c45HfQQk)
+
+Lo scopo del gioco consiste nello scrivere un programma che, una volta eseguito, consenta al robot di raggiungere il proprio obiettivo, ovvero nel caso del gato di raggiungere il topo, mentre nel caso del topo di allontanarsi il più possibile dal gatto.
+
+Il gioco è una variazione sul tema del classico "labirinto" con la difficoltà aggiuntiva di cercare di immaginare le mosse dell'avversario.
+
+### CoderBot ospite di Topolino
+
+Nel corso dell'evento inoltre CoderBot è stato ospite dello stand di Topolino, il settimanale amato da bambini e ragazzi.
+
+![topolino_1]({{site.baseurl}}/img/blog/coderbot_mmt16_topolino_1.jpg)
+
+CoderBot è stato il personaggio protagonista di alcune avventure immaginate e disegnate dai ragazzi che hanno partecipato ad alcuni laboratori presso lo stand, in collaborazione con i disegnatori professionisti della testata.
+
+![topolino_2]({{site.baseurl}}/img/blog/coderbot_mmt16_topolino_2.jpg)

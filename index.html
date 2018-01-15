@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<script type="text/javascript">
+$(document).ready(function() {
+    var userLang = navigator.language || navigator.userLanguage;
+    redirectSite(userLang);
+});
+
+function redirectSite(lang) {
+	if(lang.indexOf('it')>=0) {
+		window.location.href="it/index.html";
+	} else {
+		window.location.href="en/index.html";
+	}
+}
+</script>
+
+<div class="row">
+<div class="col-md-12">
+<h2><center>Please wait...</center><h2>
+</div>
+<hr>
+<div class="col-md-12">
+<p><center>...or select your language: <a href="./en/index.html" class="btn btn-primary">English</a> <a href="./it/index.html" class="btn btn-primary">Italiano</a></center><p>
+</div>
+</div>
+<div style="visibility:hidden;"><a href="https://plus.google.com/100258377718556176811" rel="publisher">Google+</a></div>
+<!--modified-->

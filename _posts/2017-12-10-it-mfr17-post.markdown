@@ -1,0 +1,27 @@
+---
+layout: it/post
+title:  "CoderBot alla Maker Faire Rome 2017"
+subtitle: ""
+splash: "blog/coderbot_mfr17_post_splash.jpg"
+date:   2017-12-10 12:00:00
+category: blog
+tags:   news
+author: CoderBot
+language: it
+---
+Quest'anno CoderBot ha partecipato alla Maker Faire Rome con uno stand dedicato, riscuotendo grande successo di pubblico e ... di critica!
+
+![intro]({{site.baseurl}}/img/blog/coderbot_mfr17_post_splash.jpg)
+
+### La Maker Faire Rome
+La Maker Faire Rome è l'edizione italiana della Maker Faire orinariamente nata a San Francisco. E' il luogo dove "makers" di tutto il mondo si incontrano per presentare e scambiare idee e progetti.
+
+![stand]({{site.baseurl}}/img/blog/coderbot_mfr17_stand.jpg)
+
+### La proposta CoderBot
+
+### Programmazione tangibile
+
+### Robot che collaborano
+
+### Tinkering
