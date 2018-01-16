@@ -73,18 +73,21 @@ footer {
     margin: 50px 0;
 }
 
-a.jumbo:hover { 
+a.jumbo:hover {
 	text-decoration: none
-}    
+}
 
 ul.list-social-icon-size {
 	font-size: 50px;
 }
 
 .navbar-brand {
-	padding-top:0px; 
+	padding-top:0px;
 	font-family:'Courier';
 	font-size: 32pt;
+}
+.navbar {
+  font-size: 14pt;
 }
 
 .carousel-caption {
@@ -111,13 +114,16 @@ ul.list-social-icon-size {
 		font-size: 48px;
 	}
 	.navbar-brand {
-		padding-top:14px; 	
-		font-size: 10pt;
+		#padding-top:14px;
+		font-size: 12pt;
 		padding-right:2px
 	}
 	.navbar-logo {
-		width: 32px;
+		#width: 32px;
 	}
+  .navbar {
+    font-size: 12pt;
+  }
 }
 
 @media(max-width:767px) {
@@ -130,13 +136,16 @@ ul.list-social-icon-size {
     }
 	ul.list-social-icon-size {
 		font-size: 32px;
-	} 
+	}
 	.navbar-brand {
-		padding-top:0px; 	
+		padding-top:0px;
 		font-size: 32pt;
 		padding-right:2px
 	}
 	.navbar-logo {
-		width: 79px;
-	}	   
+		#width: 79px;
+	}
+  .navbar {
+    font-size: 10pt;
+  }
 }
