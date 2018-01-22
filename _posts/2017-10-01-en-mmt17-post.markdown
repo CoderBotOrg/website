@@ -2,7 +2,7 @@
 layout: en/post
 title:  "CoderBot al MeetMeTonight 2017: un robot per giocare a pensare"
 subtitle: ""
-splash: "blog/coderbot_mmt17_post_splash.jpg"
+splash: "blog/coderbot_mmt16_post_splash.jpg"
 date:   2017-10-01 12:00:00
 category: blog
 tags:   news
@@ -11,7 +11,7 @@ language: en
 ---
 Come di consueto CoderBot ha partecipato al MeetMeTonight. Anche in questa edizione 2017 erano disponibili diversi laboratori aperti al pubblico.
 
-![intro]({{site.baseurl}}/img/blog/coderbot_mmt16_intro.jpg)
+![intro]({{site.baseurl}}/img/blog/coderbot_mmt16_post_splash.jpg)
 
 ### Il MeetMeTonight 2017
 La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.

@@ -1,26 +1,52 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="it">
 
   {% include head.html %}
 
   <body>
     <!-- Page Content -->
     <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide" style="_width:100%; height:100%; _position:fixed; _top:0; _left:0;">
-        <!-- Wrapper for slides -->
-            <div class="item active">
-                <div class="fill" style="background-image:url('../img/home_3.jpg');"></div>
-				<!--div class="carousel-caption">
-                    <h2>CoderBot<br>Un bot per imparare a programmare</h2>
-                </div-->
-            </div>
-     </header>
-    <!--div style="visibility:hidden; height:400px; width:100%;"></div-->
+    <header id="carousel-main" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        {% for post in site.posts %}
+        {% if post.language == 'it' and post.category == 'blog' and forloop.index < 11 %}
+        <li data-target="#carousel-main" data-slide-to="{{ forloop.index }}"{% if forloop.index < 2 %} class="active"{% endif %}></li>
+        {% endif %}
+        {% endfor %}
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        {% for post in site.posts %}
+        {% if post.language == 'it' and post.category == 'blog' and forloop.index < 11 %}
+        <div class="item {% if forloop.index < 2 %} active{% endif %}">
+          <img src="{{site.baseurl}}/img/{{post.splash}}" alt="...">
+          <div class="carousel-caption">
+            <a class="link-unstyled" href="{{ post.url | prepend: site.baseurl }}">
+            {{post.title}}
+            </a>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Precedente</span>
+      </a>
+      <a class="right carousel-control" href="#carousel-main" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Successivo</span>
+      </a>
+    </header>
     <div class="container">
     {% include it/header.html %}
         {{ content }}
     {% include it/footer.html %}
     </div>
     <!-- /.container -->
-  </body>  
+  </body>
 </html>
