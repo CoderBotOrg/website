@@ -1,7 +1,7 @@
 ---
 layout: en/post
 title:  "CoderBot al MeetMeTonight 2016: un robot per giocare a pensare"
-subtitle: ""
+subtitle: "Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico."
 splash: "blog/coderbot_mmt16_intro.jpg"
 date:   2016-10-01 12:00:00
 category: blog

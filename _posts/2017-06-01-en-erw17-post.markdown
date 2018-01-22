@@ -1,7 +1,7 @@
 ---
 layout: en/post
 title:  "CoderBot e Educational Robotic Week 2017"
-subtitle: ""
+subtitle: "CoderBot è stato uno dei temi trattati nel convegno Giocare a pensare, metodi e tecnologie per l'uso educatio e didattico dei robot."
 splash: "blog/coderbot_erw17_post_splash.jpg"
 date:   2017-06-01 12:00:00
 category: blog
@@ -9,7 +9,7 @@ tags:   news
 author: CoderBot
 language: en
 ---
-![intro]({{site.baseurl}}/img/blog/coderbot_erw17_intro.jpg)
+![intro]({{site.baseurl}}/img/blog/coderbot_erw17_post_splash.jpg)
 
 ### CoderBot e Educational Robotic Week 2017
 

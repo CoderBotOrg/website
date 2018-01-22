@@ -20,7 +20,7 @@
       <div class="carousel-inner" role="listbox">
         {% for post in site.posts %}
         {% if post.language == 'en' and post.category == 'blog' and forloop.index < 11 %}
-        <div class="item{% if forloop.index < 2 %} active{% endif %}">
+        <div class="item{% if forloop.index < 3 %} active{% endif %}">
           <img src="{{site.baseurl}}/img/{{post.splash}}" alt="...">
           <div class="carousel-caption">
             <a class="link-unstyled" href="{{ post.url | prepend: site.baseurl }}">
