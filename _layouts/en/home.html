@@ -10,7 +10,7 @@
       <!-- Indicators -->
       <ol class="carousel-indicators">
         {% for post in site.posts %}
-        {% if post.language == 'en' and post.category == 'blog' and forloop.index < 11 %}
+        {% if post.language == 'en' and post.category == 'blog' and forloop.index < 9 %}
         <li data-target="#carousel-main" data-slide-to="{{ forloop.index }}"{% if forloop.index < 2 %} class="active"{% endif %}></li>
         {% endif %}
         {% endfor %}
@@ -19,7 +19,7 @@
       <!-- Wrapper for slides -->
       <div class="carousel-inner" role="listbox">
         {% for post in site.posts %}
-        {% if post.language == 'en' and post.category == 'blog' and forloop.index < 11 %}
+        {% if post.language == 'en' and post.category == 'blog' and forloop.index < 9 %}
         <div class="item{% if forloop.index < 3 %} active{% endif %}">
           <img src="{{site.baseurl}}/img/{{post.splash}}" alt="...">
           <div class="carousel-caption">

@@ -10,8 +10,8 @@ author: CoderBot
 language: it
 ---
 
-![intro]({{site.baseurl}}/img/blog/coderbot_unimib_post_splash.jpg)
-
 ### CoderBot e Università di Milano - Bicocca
 Università di Milano-Bicocca ha acquisito la proprietà intellettuale del progetto CoderBot.
 Le finalità dell'acquisizione sono lo sviluppo del progetto nell'ambito della ricerca e sviluppo.
+
+![intro]({{site.baseurl}}/img/blog/coderbot_unimib_post_splash.jpg)

@@ -17,50 +17,85 @@ layout: it/default
         </div>
         <!-- /.row -->
 
-       <!-- Portfolio Item Row -->
-        <div class="row">
-
-            <div class="col-md-12">
-                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                    <!-- Indicators -->
- 
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner">
-                        <div class="item active">
-                            <img class="img-responsive" src="../img/about.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /.row -->
-
         <!-- Related Projects Row -->
         <div class="row">
-            <div class="col-md-12">
-                <h2>Perché CoderBot</h2><a name="why"></a>
-                <p>CoderBot è un robot orientato alla didattica.</p>
-                <p class="lead">L'obiettivo principale del progetto è realizzare un robot in grado di essere programmato da bambini dai 6 anni in avanti, e che rimanga interessante e offra spunti per l'apprendimento a ragazzi fino ai 14 anni (e oltre).</p>
-				<img src="../img/home_2.jpg" width="700">
-				<h3>Come è fatto</h3><a name="how"></a>
+          <div class="col-md-9" role="main">
+            <h2>Cos'è CoderBot</h2>
+            <p>
+              CoderBot è un robot orientato alla didattica che può essere programmato da
+              bambini dai 6 anni in poi.
+            </p>
+            <img src="../img/home_2.jpg" width="1140">
+            <p>
+              È un piccolo veicolo dotato di telecamera, sensori di distanza, un microfono e
+              un altoparlante. Può muoversi nello spazio ed emettere suoni e parole.
+            </p>
+            <p>
+            Tramite i suoi algoritmi di visione artificiale può riconoscere oggetti e volti.
+            </p>
+            <iframe width="640" height="390" src="https://www.youtube.com/embed/AniQfhV4C5U" frameborder="0" allowfullscreen></iframe>
+            <p>
+              Può essere programmato per reagire in vario modo agli stimoli circostanti. È
+            orientato ad attività di “tinkering” essendo basato su scheda Raspberry PI.
+            </p>
+            <img src="../img/coding.png">
+            <h2>Cosa vogliamo fare</h2>
+            <p>
+              Con i contributi raccolti attraverso la campagna di crowdfunding vogliamo
+              realizzare un ambiente di programmazione facile e personalizzabile in base
+              all’età degli studenti, alle loro particolari abilità sensoriali e motorie e agli
+              obiettivi didattici dell’insegnante che potrà, per esempio, scegliere di
+              nascondere (o mostrare) alcuni aspetti della programmazione che in quel
+              momento non sono (o sono) rilevanti per l’apprendimento. In questo modo la
+              bambina di sei anni non sarà più costretta a usare lo stesso software che si
+              trova di fronte lo studente di scuola superiore.
+            </p>
+            <h2>Perché sostenerci</h2>
+            <p>
+              CoderBot è stato progettato da un gruppo di ricerca che comprende
+              informatici, pedagogisti, psicologi e filosofi impegnati a progettare didattica
+              innovativa per permettere a bambini e ragazzi di apprendere in modo più
+              creativo, interattivo e stimolante, a scuola e non solo.
+            </p>
+            <p>
+              Aiutandoci sosterrai un’attività di ricerca che ha ricadute concrete in campo
+              didattico. Il nostro robot viene usato nelle scuole per migliorare il lavoro
+              quotidiano di studenti e insegnanti e per promuovere lo studio delle
+              applicazioni didattiche della robotica.
+            </p>
+            <p>
+              Se utilizzato in modo consapevole dall’insegnante, CoderBot può costituire un
+              valido strumento per promuovere l’apprendimento di abilità e competenze di
+              vario tipo, da quelle legate alle discipline tecnico-scientifiche a quelle, più
+              trasversali, legate al ragionamento astratto e al metodo scientifico.
+            </p>
+            <p>
+              Inoltre, il tuo contributo finanzierà in parte la borsa di studio del laureando
+              che parteciperà allo sviluppo del nuovo software.
+            </p>
+            <p>
+              CoderBot è un progetto del Dipartimento di Scienze Umane per la Formazione
+              (RobotiCSS Lab - Laboratorio di Robotica per le Scienze Cognitive e Sociali) e
+              del Dipartimento di Informatica dell’Università degli Studi di Milano-Bicocca.
+            </p>
+            <!--h2 id="education">Perché CoderBot</h2>
+  	          <h3 id="description">Come è fatto</h3>
                 <p>E' un veicolo con due ruote motrici anteriori indipendenti e un terzo punto di appoggio posteriore costituito da una sfera libera.</p>
-				<p>E' basato su <a href="http://www.raspberrypi.org" target="new">Raspberry PI</a>, un computer completo (CPU, GPU, audio, memoria RAM e flash).</p>
-				<p>Alla scheda principale è collegata una videocamera, una scheda di controllo per i due motori (DC oppure servo) e un adattatore wifi. L'audio è amplificato tramite un altoparlante autoalimentato.</p>
-				<p>Il sistema operativo è Raspbian, una versione di Linux debian specifica per Raspberry, su cui si appoggiano alcune componenti per gestire rete, videocamera, motori e interfaccia utente, quest'ultima realizzata come una web application html5, a sua volta erogata da un web server che gira all'interno di Raspberry.</p>
-				<p>Il robot è controllabile da qualsiasi dispositivo che sia in grado di connettersi a una rete wifi e dotato di un browser compatibile con html5.</p>
-                <h3>Cosa può fare</h3><a name="what"></a>
+  	            <p>E' basato su <a href="http://www.raspberrypi.org" target="new">Raspberry PI</a>, un computer completo (CPU, GPU, audio, memoria RAM e flash).</p>
+  	            <p>Alla scheda principale è collegata una videocamera, una scheda di controllo per i due motori (DC oppure servo) e un adattatore wifi. L'audio è amplificato tramite un altoparlante autoalimentato.</p>
+  	            <p>Il sistema operativo è Raspbian, una versione di Linux debian specifica per Raspberry, su cui si appoggiano alcune componenti per gestire rete, videocamera, motori e interfaccia utente, quest'ultima realizzata come una web application html5, a sua volta erogata da un web server che gira all'interno di Raspberry.</p>
+  	            <p>Il robot è controllabile da qualsiasi dispositivo che sia in grado di connettersi a una rete wifi e dotato di un browser compatibile con html5.</p>
+              <h3 id="capabilities">Cosa può fare</h3>
                 <p>Il robot è in grado di muoversi su superfici piane: avanti, indietro e ruotare sul posto o curvare con raggi variabili, agendo sulla velocità dei due motori.</p>
-                <img src="../img/easy.jpg" width="400">
-                <a name="wifi"></a>
+
                 <p>E' controllabile via web tramite un pc, un tablet o uno smartphone che sia in grado di connettersi via wifi al robot.</p>
                 <img src="../img/mars_700x300.jpg" width="400">
-                <a name="gui"></a>
                 <p>CoderBot può essere utilizzato come un "rover" teleguidato, grazie alla telecamera integrata trasmette le immagini dell'ambiente che gli si trova davanti.</p>
                 <img src="../img/remote.jpg">
                 <a name="audio"></a>
                 <p>E' in grado di emettere suoni: audio wav o mp3 oppure pronunciare frasi definite dall'utente, grazie alla sintesi volcale.</p>
-				<iframe width="640" height="390" src="//www.youtube.com/embed/GAbvqngotLY" frameborder="0" allowfullscreen></iframe>
-                <a name="programming"></a>
+  	            <iframe width="640" height="390" src="//www.youtube.com/embed/GAbvqngotLY" frameborder="0" allowfullscreen></iframe>
+              <h3 id="programming">Programmabile</h3>
                 <p>CoderBot è inoltre programmabile tramite un linguaggio a blocchi (blockly) specifico per bambini dai 6 anni in avanti.</p>
                 <img src="../img/coding.png" width="400">
                 <p>L'editor è configurabile in vari livelli di complessità e completezza delle istruzioni, in modo da poter facilitare l'apprendimento per gradi.</p>
@@ -68,8 +103,8 @@ layout: it/default
                 <p>Modo "semplificato"</p>
                 <img src="../img/gui_programming_adv.png" width="400">
                 <p>Modo Normale / Avanzato</p>
-        		<p>L'interfaccia utente, disponibile sia in Inglese che in Italiano, è inoltre configurabile in modo da poter nascondere alcune sue parti, sempre per rendere più immediato possibile l'interazione con gli utenti ed evitare distrazioni con funzioni non pertinenti all'attività. Per esempio è possibile nascondere l'interfaccia di "controllo remoto" e lasciare solo la parte di programmazione, oppure al contrario si può lasciare solo la parte di controllo remoto.</p>
-        		<p>La maggior parte delle impostazioni di CoderBot sono accessibili e modificabili nella pagina "Preferenze".</p>
+    		        <p>L'interfaccia utente, disponibile sia in Inglese che in Italiano, è inoltre configurabile in modo da poter nascondere alcune sue parti, sempre per rendere più immediato possibile l'interazione con gli utenti ed evitare distrazioni con funzioni non pertinenti all'attività. Per esempio è possibile nascondere l'interfaccia di "controllo remoto" e lasciare solo la parte di programmazione, oppure al contrario si può lasciare solo la parte di controllo remoto.</p>
+    		        <p>La maggior parte delle impostazioni di CoderBot sono accessibili e modificabili nella pagina "Preferenze".</p>
                 <img src="../img/gui_preferences.png" width="400">
                 <p>Per i più avanzati, CoderBot è inoltre programmabile direttamente in python, utilizzando delle librerie molto semplici ed intuitive.</p>
 {% highlight python %}
@@ -81,22 +116,49 @@ bot.forward(speed=100, elapse=2.5)
 bot.left(speed=60, elapse=1)
 
 {% endhighlight %}
-				<a name="comp_vision"></a>
-				<p>Grazie alla Camera è in grado di riprendere immagini e trasmetterle al dispositivo usato per pilotarlo (computer, tablet o smartphone).</p>
-				<a name="obj_rec"></a>
-				<p>Inoltre può utilizzare le immagini per evitare ostacoli:</p>
-				<p>[Coming soon: video di riconoscimento ostacolo]</p>
-				<a name="line_follower"></a>
-				<p>Per riconoscere e seguire linee:</p>
-				<iframe width="640" height="390" src="https://www.youtube.com/embed/RUyqhv2FYyY" frameborder="0" allowfullscreen></iframe>
-				<a name="color_rec"></a>				
-				<p>Per riconoscere oggetti in base al loro colore:</p>
-				<iframe width="640" height="390" src="https://www.youtube.com/embed/AniQfhV4C5U" frameborder="0" allowfullscreen></iframe>
-				<a name="face_rec"></a>				
-				<p>E' inoltre in grado di riconoscere visi di persone e simboli predefiniti.</p>
-				<p>[Coming soon: video di face finder]</p>
-				<p>[Coming soon: video di signal finder]</p>
+      				<h3 id="comp_vision">Telecamera</h3>
+        				<p>Grazie alla Camera è in grado di riprendere immagini e trasmetterle al dispositivo usato per pilotarlo (computer, tablet o smartphone).</p>
+        				<a name="obj_rec"></a>
+        				<p>Inoltre può utilizzare le immagini per evitare ostacoli:</p>
+        				<p>[Coming soon: video di riconoscimento ostacolo]</p>
+        				<a name="line_follower"></a>
+        				<p>Per riconoscere e seguire linee:</p>
+        				<iframe width="640" height="390" src="https://www.youtube.com/embed/RUyqhv2FYyY" frameborder="0" allowfullscreen></iframe>
+        				<a name="color_rec"></a>
+        				<p>Per riconoscere oggetti in base al loro colore:</p>
+        				<iframe width="640" height="390" src="https://www.youtube.com/embed/AniQfhV4C5U" frameborder="0" allowfullscreen></iframe>
+        				<a name="face_rec"></a>
+        				<p>E' inoltre in grado di riconoscere visi di persone e simboli predefiniti.</p>
+        				<p>[Coming soon: video di face finder]</p>
+        				<p>[Coming soon: video di signal finder]</p>
+              <h3 id="maker">Maker friendly</h3>
+            </div-->
+            <div class="col-md-3" role="complementary">
+              <nav class="hidden-print hidden-sm hidden-xs" id="side_index">
+                <ul class="nav nav-tabs nav-stacked" data-spy="affix" data-offset-top="60">
+                  <li class="">
+                    <a href="#education">Didattica</a>
+                  </li>
+                  <li class="">
+                    <a href="#description">Come è fatto</a>
+                  </li>
+                  <li class="">
+                    <a href="#capabilities">Impieghi</a>
+                  </li>
+                  <li class="">
+                    <a href="#programming">Programmabile</a>
+                  </li>
+                  <li class="">
+                    <a href="#comp_vision">Telecamera</a>
+                  </li>
+                  <li class="">
+                    <a href="#comp_vision">Altri sensori</a>
+                  </li>
+                  <li class="">
+                    <a href="#maker">Maker friendly</a>
+                  </li>
+                </ul>
+              </nav>
             </div>
-
-        </div>
+          </div>
         <!-- /.row -->

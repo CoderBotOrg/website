@@ -11,7 +11,7 @@ layout: it/home
                 </div>
               </div>
               {% for post in site.posts %}
-       				{% if post.language == 'it' and post.category == 'blog' and forloop.index < 9 %}
+       				{% if post.language == 'it' and post.category == 'blog' and forloop.index > 8 and forloop.index < 16 %}
               <div class="col-md-6">
                 <div class="panel panel-default box-shadow">
                   <div class="panel-heading">
@@ -42,6 +42,9 @@ layout: it/home
                         </div>
                         <a class="twitter-timeline" data-height="600" href="https://twitter.com/coderbotorg?ref_src=twsrc%5Etfw">Tweets by coderbotorg</a>
                         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        <!-- InstaWidget -->
+                        <a href="https://instawidget.net/v/user/coderbotorg" id="link-5fa659e3507acc69b22bcea97389c340e0806bd19407892a234742f0821c4d5e">@coderbotorg</a>
+                        <script src="https://instawidget.net/js/instawidget.js?u=5fa659e3507acc69b22bcea97389c340e0806bd19407892a234742f0821c4d5e&width=260px"></script>
                     </div>
                 </div>
             </div>

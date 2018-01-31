@@ -3,7 +3,7 @@ layout: en/post
 title:  "CoderBot at Maker Faire Rome 2017"
 subtitle: "\"Con CoderBot si impara giocando\""
 splash: "blog/coderbot_mfr17_post_splash.jpg"
-date:   2017-12-10 12:00:00
+date: 2017-12-10 12:00:00
 category: blog
 tags:   news
 author: CoderBot
