@@ -16,8 +16,6 @@ Quest'anno CoderBot ha partecipato alla Maker Faire Rome con uno stand dedicato,
 ### La Maker Faire Rome
 La Maker Faire Rome è l'edizione italiana della Maker Faire orinariamente nata a San Francisco. E' il luogo dove "makers" di tutto il mondo si incontrano per presentare e scambiare idee e progetti.
 
-![stand]({{site.baseurl}}/img/blog/coderbot_mfr17_stand.jpg)
-
 ### La proposta CoderBot
 CoderBot era presente con tre diverse modalità di utilizzo del robot, corrispondenti a diverse attività didattiche rivolte a bambini e ragazzi dai 3 anni in avanti.
 
