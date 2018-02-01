@@ -277,6 +277,11 @@ ul.list-social-icons-nav {;
   }
   header.carousel div.carousel-caption {
     bottom: 10px;
+    line-height: 1;
+  }
+
+  .carousel-indicators {
+    bottom: -5px;
   }
 
 	.navbar-brand {
