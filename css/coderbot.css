@@ -287,6 +287,10 @@ ul.list-social-icons-nav {;
 }
 
 @media(max-width:379px) {
+  .navbar-logo {
+    margin-top:8px;
+    height:40px;
+  }
 	.navbar-brand {
 		padding-top:0px;
 		font-size: 18pt;
