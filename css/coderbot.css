@@ -289,7 +289,7 @@ ul.list-social-icons-nav {;
 @media(max-width:379px) {
 	.navbar-brand {
 		padding-top:0px;
-		font-size: 24pt;
+		font-size: 20pt;
 		padding-right:2px
 	}
 }
