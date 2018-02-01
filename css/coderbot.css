@@ -284,28 +284,12 @@ ul.list-social-icons-nav {;
 		font-size: 28pt;
 		padding-right:2px
 	}
-  .navbar {
-    #font-size: 10pt;
-  }
 }
 
 @media(max-width:379px) {
-	ul.list-social-icon-size {
-		font-size: 32px;
-	}
-  div.carousel-caption > a, a.hover {
-    font-size: 14pt;
-  }
-  header.carousel div.carousel-caption {
-    bottom: 10px;
-  }
-
 	.navbar-brand {
 		padding-top:0px;
 		font-size: 24pt;
 		padding-right:2px
 	}
-  .navbar {
-    #font-size: 10pt;
-  }
 }
