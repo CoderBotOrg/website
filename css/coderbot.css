@@ -150,6 +150,10 @@ ul.list-social-icons-nav {;
     margin-bottom: 0;
   }
 
+  body {
+      padding-top: 64px;
+  }
+
   .navbar {
     font-size: 16pt;
     min-height: 64px;
@@ -197,6 +201,10 @@ ul.list-social-icons-nav {;
   .navbar-nav>li>a {
       padding-top: 12px;
       padding-bottom: 15px;
+  }
+
+  body {
+      padding-top: 48px;
   }
 
   .navbar {
@@ -254,6 +262,7 @@ ul.list-social-icons-nav {;
 		font-size: 32pt;
 		padding-right:2px
 	}
+
   .navbar {
     font-size: 14pt;
   }
