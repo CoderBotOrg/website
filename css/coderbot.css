@@ -12,7 +12,7 @@ body {
 }
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 82px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-size: 14pt;
 }
 
@@ -22,6 +22,11 @@ body {
 
 .img-hover:hover {
     opacity: 0.8;
+}
+
+.blog-post > p > img {
+  max-width: 100%;
+  height: auto;
 }
 
 .link-unstyled, .link-unstyled:visited, .link-unstyled:hover, .link-unstyled:active, .link-unstyled:focus, .link-unstyled:active:hover {
@@ -239,6 +244,12 @@ ul.list-social-icons-nav {;
 	ul.list-social-icon-size {
 		font-size: 32px;
 	}
+
+  .navbar-collapse {
+      color: #ffffff;
+      background-color: #2fa4e7;
+  }
+
 	.navbar-brand {
 		font-size: 32pt;
 		padding-right:2px
@@ -261,13 +272,10 @@ ul.list-social-icons-nav {;
 
 	.navbar-brand {
 		padding-top:0px;
-		font-size: 32pt;
+		font-size: 28pt;
 		padding-right:2px
 	}
   .navbar {
     #font-size: 10pt;
-  }
-  .navbar-brand {
-  	font-size: 28pt;
   }
 }

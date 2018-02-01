@@ -28,7 +28,7 @@ layout: en/default
                 <h2>
                     <a href="{{ post.url | prepend: site.baseurl }}"">{{ post.title }}</a>
                 </h2>
-                <p><i class="fa fa-clock-o"></i> Published on {{ post.date | date: "%d/%m/%Y" }} by {{ post.author }}</p>
+                <p><i class="far fa-clock"></i> Published on {{ post.date | date: "%d/%m/%Y" }} by {{ post.author }}</p>
 				{% if post.splash %}
                 <hr>
                 <a href="{{ post.url | prepend: site.baseurl }}">

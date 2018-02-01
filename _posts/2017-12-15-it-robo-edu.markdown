@@ -9,7 +9,7 @@ tags:   news
 author: CoderBot
 language: it
 ---
-Costruendo si impara: non è una novità. Tutti noi, da piccoli, abbiamo tentato almeno una volta di
+**Costruendo si impara: non è una novità.** Tutti noi, da piccoli, abbiamo tentato almeno una volta di
 realizzare oggetti più o meno fantasiosi (castelli, trenini o aquiloni). Abbiamo cercato i materiali necessari,
 progettato la costruzione dell’oggetto, tagliato e incollato pezzi di cartone e infine abbiamo messo tutto
 insieme per poi scoprire che qualcosa non funzionava. Dunque siamo andati in cerca dei nostri errori e
@@ -22,7 +22,7 @@ Facendo tutto ciò, stavamo imparando molte cose. Stavamo imparando a tagliare e
 progettare un piano dei lavori e soprattutto stavamo pensando come realizzare quello che desideravamo e
 come rimediare ai nostri errori.
 
-I robot – per lo meno quelli come CoderBot – servono per costruire. Con una particolarità. Rispetto al
+**I robot – per lo meno quelli come CoderBot – servono per costruire.** Con una particolarità. Rispetto al
 cartone, al meccano o al LEGO, permettono di costruire qualcosa di straordinario: un comportamento.
 Pensiamo a CoderBot. Si può muovere sulle sue ruote come un piccolo veicolo e ha sensori di vario tipo.
 Tramite un semplice linguaggio di programmazione, che viene appreso senza gran difficoltà da bambini
@@ -33,7 +33,9 @@ oppure di cercare la luce come fanno le falene. Si può chiedere a CoderBot di p
 vede una mela o di rincorrere una palla rossa. Si può persino chiedere a un CoderBot di dire ad un altro
 CoderBot cosa deve fare.
 
-Tutto questo lo si può fare a casa, da soli, oppure in classe, lavorando con gli insegnanti e i propri compagni.
+![intro]({{site.baseurl}}/img/blog/coderbot_in_class_2.jpg)
+
+**Tutto questo lo si può fare a casa, da soli, oppure in classe, lavorando con gli insegnanti e i propri compagni.**
 
 Cosa si impara, programmando un CoderBot? Dipende. Se lo si propone come strumento didattico per
 attività scolastiche (come spesso accade), la parte del leone è dell’insegnante: le attività che propone, il
@@ -43,11 +45,11 @@ fatto a impararlo. In breve, la questione dipende da come CoderBot è utilizzato
 Dipartimento di Scienze della Formazione della Bicocca, con il suo RobotiCSS Lab, conduce molte attività di
 ricerca sperimentale.
 
-Resta il fatto che, finora, molti insegnanti hanno utilizzato CoderBot nelle loro classi con grande
-soddisfazione loro e dei bambini.
+**Resta il fatto che, finora, molti insegnanti hanno utilizzato CoderBot nelle loro classi con grande
+soddisfazione loro e dei bambini.**
 
-In tanti casi l’obiettivo degli insegnanti era quello di stimolare i bambini a ragionare, con tutto quello che
-questa parola significa: in effetti per programmare un comportamento attraverso CoderBot bisogna
+**In tanti casi l’obiettivo degli insegnanti era quello di stimolare i bambini a ragionare, con tutto quello che
+questa parola significa:** in effetti per programmare un comportamento attraverso CoderBot bisogna
 ragionare moltissimo. Bisogna fare previsioni, esperimenti, dare spiegazioni, decidere quale insieme di
 comandi fornisca al robot la “logica” che desideriamo vedere nel suo comportamento.
 
@@ -57,7 +59,7 @@ programmare il CoderBot ma scoprire come era programmato a partire dall’osserv
 comportamento. Scoperta, teorizzazione, sperimentazione, osservazione: bambini scienziati alle prese con
 un animaletto robotico.
 
-In altri casi l’obiettivo era più disciplinare. Sono stati fatti percorsi di geografia, in cui i bambini dovevano
+**In altri casi l’obiettivo era più disciplinare.** Sono stati fatti percorsi di geografia, in cui i bambini dovevano
 ricostruire la struttura di un territorio sulla base delle immagini “in soggettiva” acquisite da CoderBot, come
 nei rover su Marte, ovvero le piccole sonde progettate per muoversi sulla superficie di altri pianeti.
 
