@@ -25,21 +25,9 @@ body {
 }
 
 .link-unstyled, .link-unstyled:visited, .link-unstyled:hover, .link-unstyled:active, .link-unstyled:focus, .link-unstyled:active:hover {
-    font-style: inherit;
     color: inherit;
     background-color: transparent;
-    font-size: inherit;
     text-decoration: none;
-    font-variant: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-    font-family: inherit;
-    border-radius: inherit;
-    border: inherit;
-    outline: inherit;
-    box-shadow: inherit;
-    padding: inherit;
-    vertical-align: inherit;
 }
 
 /* Home Page Carousel */
@@ -48,17 +36,14 @@ header.carousel {
     margin-bottom: 15px;
 }
 
-header.carousel .item,
-header.carousel .item.active,
-header.carousel .carousel-inner {
-    #width: 100%;
-}
 header.carousel div.carousel-caption {
   bottom: 20px;
   font-size: 24pt;
   color: white;
   background: rgba(0,0,0,0.2);
+	border-radius: 5px;
 }
+
 header.carousel .item > img {
   width: 100%;
 }
@@ -118,24 +103,34 @@ ul.list-social-icon-size {
 }
 
 ul.list-social-icons-nav {;
-  margin-top: 10px;
+  margin-top: 8px;
   margin-bottom: 0;
+}
+
+.navbar {
+  font-size: 18pt;
+  min-height: 82px;
+  height: 82px;
 }
 
 .navbar-brand {
 	padding-top:0px;
 	font-family:'Courier';
 	font-size: 32pt;
+  height: 82px;
 }
-.navbar {
-  font-size: 14pt;
+
+.navbar-menu {
+	margin-top: 15px;
+}
+
+.navbar-logo-unimib {
+  height:82px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .carousel-caption {
-	bottom: 200px;
-	padding: 50px;
-	border-radius: 5px;
-	background: rgba(255,255,255,0.5);
 }
 
 /* Responsive Styles */
@@ -144,6 +139,40 @@ ul.list-social-icons-nav {;
 	ul.list-social-icon-size {
 		font-size: 40px;
 	}
+
+  ul.list-social-icons-nav {;
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+
+  .navbar {
+    font-size: 16pt;
+    min-height: 64px;
+    height: 64px;
+  }
+
+  .navbar-brand {
+  	padding-top:0px;
+  	font-family:'Courier';
+  	font-size: 24pt;
+    height: 64px;
+  }
+
+  .navbar-menu {
+  	margin-top: 5px;
+  }
+
+  .navbar-logo {
+    height:64px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .navbar-logo-unimib {
+    height:64px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
 }
 
 @media(max-width:991px) {
@@ -154,39 +183,91 @@ ul.list-social-icons-nav {;
 	ul.list-social-icon-size {
 		font-size: 48px;
 	}
-	.navbar-brand {
-		#padding-top:14px;
-		font-size: 12pt;
-		padding-right:2px
-	}
-	.navbar-logo {
-		#width: 32px;
-	}
+
+  ul.list-social-icons-nav {;
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+
+  .navbar-nav>li>a {
+      padding-top: 12px;
+      padding-bottom: 15px;
+  }
+
   .navbar {
     font-size: 12pt;
+    min-height: 48px;
+    height: 48px;
+  }
+
+  .navbar-brand {
+  	padding-top:0px;
+  	font-family:'Courier';
+  	font-size: 18pt;
+    height: 48px;
+  }
+
+  .navbar-menu {
+  	margin-top: 0px;
+  }
+
+  .navbar-logo {
+    height:48px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
+  .navbar-logo-unimib {
+    height:48px;
+    padding-top: 4px;
+    padding-bottom: 4px;
   }
 }
 
 @media(max-width:767px) {
-    .img-portfolio {
-        margin-bottom: 15px;
-    }
+  .img-portfolio {
+      margin-bottom: 15px;
+  }
+  div.carousel-caption > a, a.hover {
+    font-size: 18pt;
+  }
+  header.carousel > img {
+    width: 200%;
+    margin-left: -50%;
+  }
 
-    header.carousel .carousel {
-        height: 70%;
-    }
 	ul.list-social-icon-size {
 		font-size: 32px;
 	}
+	.navbar-brand {
+		font-size: 32pt;
+		padding-right:2px
+	}
+  .navbar {
+    font-size: 14pt;
+  }
+}
+
+@media(max-width:479px) {
+	ul.list-social-icon-size {
+		font-size: 32px;
+	}
+  div.carousel-caption > a, a.hover {
+    font-size: 14pt;
+  }
+  header.carousel div.carousel-caption {
+    bottom: 10px;
+  }
+
 	.navbar-brand {
 		padding-top:0px;
 		font-size: 32pt;
 		padding-right:2px
 	}
-	.navbar-logo {
-		#width: 79px;
-	}
   .navbar {
-    font-size: 10pt;
+    #font-size: 10pt;
+  }
+  .navbar-brand {
+  	font-size: 28pt;
   }
 }
