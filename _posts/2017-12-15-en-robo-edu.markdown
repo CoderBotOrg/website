@@ -9,14 +9,14 @@ tags:   news
 author: CoderBot
 language: en
 ---
+![intro]({{site.baseurl}}/img/blog/coderbot_in_class_1.jpg)
+
 Costruendo si impara: non è una novità. Tutti noi, da piccoli, abbiamo tentato almeno una volta di
 realizzare oggetti più o meno fantasiosi (castelli, trenini o aquiloni). Abbiamo cercato i materiali necessari,
 progettato la costruzione dell’oggetto, tagliato e incollato pezzi di cartone e infine abbiamo messo tutto
 insieme per poi scoprire che qualcosa non funzionava. Dunque siamo andati in cerca dei nostri errori e
 abbiamo provato a correggerli. E in molti casi siamo riusciti a realizzare quello che volevamo, perché lo
 volevamo veramente.
-
-![intro]({{site.baseurl}}/img/blog/coderbot_in_class_1.jpg)
 
 Facendo tutto ciò, stavamo imparando molte cose. Stavamo imparando a tagliare e decorare cose, a
 progettare un piano dei lavori e soprattutto stavamo pensando come realizzare quello che desideravamo e

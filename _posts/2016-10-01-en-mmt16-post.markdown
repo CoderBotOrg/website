@@ -9,9 +9,9 @@ tags:   news
 author: CoderBot
 language: en
 ---
-Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico e un simpatico incontro con personaggi a dir poco "mitici".
-
 ![intro]({{site.baseurl}}/img/blog/coderbot_mmt16_intro.jpg)
+
+Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico e un simpatico incontro con personaggi a dir poco "mitici".
 
 ### Il MeetMeTonight 2016
 La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.

@@ -6,17 +6,17 @@ splash: "blog/coderbot_in_class_splash.jpg"
 date: 2017-12-15 12:00:00
 category: blog
 tags:   news
-author: CoderBot
+author: Edoardo Datteri
 language: it
 ---
+![intro]({{site.baseurl}}/img/blog/coderbot_in_class_1.jpg)
+
 **Costruendo si impara: non è una novità.** Tutti noi, da piccoli, abbiamo tentato almeno una volta di
 realizzare oggetti più o meno fantasiosi (castelli, trenini o aquiloni). Abbiamo cercato i materiali necessari,
 progettato la costruzione dell’oggetto, tagliato e incollato pezzi di cartone e infine abbiamo messo tutto
 insieme per poi scoprire che qualcosa non funzionava. Dunque siamo andati in cerca dei nostri errori e
 abbiamo provato a correggerli. E in molti casi siamo riusciti a realizzare quello che volevamo, perché lo
 volevamo veramente.
-
-![intro]({{site.baseurl}}/img/blog/coderbot_in_class_1.jpg)
 
 Facendo tutto ciò, stavamo imparando molte cose. Stavamo imparando a tagliare e decorare cose, a
 progettare un piano dei lavori e soprattutto stavamo pensando come realizzare quello che desideravamo e
@@ -66,3 +66,5 @@ nei rover su Marte, ovvero le piccole sonde progettate per muoversi sulla superf
 Sono stati elaborati percorsi che puntavano allo sviluppo di capacità matematiche, geometriche, artistiche
 e persino linguistiche. La creatività degli insegnanti è senza fine e CoderBot, con la sua telecamera, i suoi
 algoritmi di visione artificiale e la sua facilità di programmazione, non può che alimentarla.
+
+Edoardo Datteri

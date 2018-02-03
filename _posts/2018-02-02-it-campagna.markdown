@@ -10,9 +10,6 @@ tags:   news
 author: CoderBot
 language: it
 ---
-Il 19 febbraio 2018 parte la campagna di crowdfunding per il CoderBot, un robot per giocare a
-pensare.
-
 ![intro]({{site.baseurl}}/img/blog/coderbot_campagna_splash.jpg)
 
 CoderBot è un robot progettato per l’uso didattico in Scuole Primarie e Secondarie. È stato

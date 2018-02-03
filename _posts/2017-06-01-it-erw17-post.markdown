@@ -9,8 +9,6 @@ tags:   news
 author: CoderBot
 language: it
 ---
-Lorem ipsum...
-
 ![intro]({{site.baseurl}}/img/blog/coderbot_erw17_post_splash.jpg)
 
 ### CoderBot e Educational Robotic Week 2017

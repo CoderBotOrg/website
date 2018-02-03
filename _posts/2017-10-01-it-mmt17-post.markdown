@@ -9,9 +9,9 @@ tags:   news
 author: CoderBot
 language: it
 ---
-Come di consueto CoderBot ha partecipato al MeetMeTonight. Anche in questa edizione 2017 erano disponibili diversi laboratori aperti al pubblico.
-
 ![intro]({{site.baseurl}}/img/blog/coderbot_mmt17_post_splash.jpg)
+
+Come di consueto CoderBot ha partecipato al MeetMeTonight. Anche in questa edizione 2017 erano disponibili diversi laboratori aperti al pubblico.
 
 ### Il MeetMeTonight 2017
 La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.

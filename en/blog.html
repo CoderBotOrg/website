@@ -26,7 +26,7 @@ layout: en/default
    				{% if post.language == 'en' and post.category == 'blog' %}
                 <!-- First Blog Post -->
                 <h2>
-                    <a href="{{ post.url | prepend: site.baseurl }}"">{{ post.title }}</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <p><i class="far fa-clock"></i> Published on {{ post.date | date: "%d/%m/%Y" }} by {{ post.author }}</p>
 				{% if post.splash %}
@@ -36,7 +36,7 @@ layout: en/default
                 </a>
                 {%endif%}
                 <hr>
-                <p>{{post.excerpt}}</p>
+                <p>{{post.subtitle}}</p>
                 <a class="btn btn-primary" href="{{ post.url | prepend: site.baseurl }}">Read More <i class="fa fa-angle-right"></i></a>
 
                 <hr>

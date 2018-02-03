@@ -6,6 +6,7 @@ layout: it/default
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">{{page.title}}</h1>
+                <p class="lead">{{page.subtitle}}</p>
                 <ol class="breadcrumb">
                     <li><a href="{{site.baseurl}}/it/index.html">CoderBot</a>
                     <li><a href="{{site.baseurl}}/it/blog.html">Blog</a>
@@ -21,7 +22,7 @@ layout: it/default
             <!-- Blog Post Content Column -->
             <div class="col-lg-12 blog-post">
                 <!-- Post Content -->
-                <p class="lead">{{content}}</p>
+                {{content}}
                 <hr>
                 <!-- Date/Time -->
                 <p><i class="far fa-clock"></i> Pubblicato il {{ page.date | date: "%d/%m/%Y" }} da {{page.author}} <i class="fas fa-tags"></i> {% for tag in page.tags %}<span class="label label-primary">{{tag}}</span> {%endfor%}</p>
