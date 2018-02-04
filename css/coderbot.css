@@ -280,6 +280,12 @@ ul.list-social-icons-nav {;
     line-height: 1;
   }
 
+  header.carousel .item > img {
+    width: 300%;
+    max-width: none;
+    margin-left: -75%;
+  }
+
   .carousel-indicators {
     bottom: -5px;
   }

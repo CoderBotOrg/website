@@ -17,24 +17,42 @@ Quest'anno CoderBot ha partecipato alla Maker Faire Rome con uno stand dedicato,
 La Maker Faire Rome è l'edizione italiana della Maker Faire orinariamente nata a San Francisco. E' il luogo dove "makers" di tutto il mondo si incontrano per presentare e scambiare idee e progetti.
 
 ### La proposta CoderBot
+
+![stand]({{site.baseurl}}/img/blog/coderbot_mfr17_stand_1.jpg)
+
 CoderBot era presente con tre diverse modalità di utilizzo del robot, corrispondenti a diverse attività didattiche rivolte a bambini e ragazzi dai 3 anni in avanti.
 
 ### Programmazione tangibile
 La prima esperienza era rivolta a bambini dai 3 ai 5 anni e aveva la particolarità di consentire ai bambini di interagire, o meglio "programmare" il robot senza bisogno di utilizzare un computer o un tablet, ma utilizzando dei piccoli cartoncini raffiguranti delle immagini di vario tipo (cartelli stradali e vari tipi di frutta).
 
+![tangibile]({{site.baseurl}}/img/blog/coderbot_mfr17_stand_2.jpg)
+
 Il robot, grazie alla telecamera e alle funzioni di visione artificiale, era in grado di "riconoscere" le immagini poste sui cartoncini e di comportarsi di conseguenza.
 Nel caso dei segnali stradali, se il robot identificava una freccia in una certa direzione, si muoveva di conseguenza, mentre nel caso della frutta, eseguiva dei movimenti o emetteva dei suoni.
+
+<iframe width="100%" height="270" src="https://www.youtube.com/embed/C_3F0EWALNc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Questo tipo di gioco ha suscitato grande interesse nei bambini, la possibilità di poter interagire con il robot utilizzando degli oggetti "fisici" al poso del classico computer, ha semplificato l'interazione tra i bambini e il robot.
 
 ### Robot che collaborano
 In questa seconda esperienza, dedicata ai ragazzi di 10 anni in avanti, era possibile scrivere dei programmi che potevano sfuttare il fatto chei robot erano in grado di comunicare tra loro.
 
+![swarm]({{site.baseurl}}/img/blog/coderbot_mfr17_swarm_1.jpg)
+
 Queste novità nel linguaggio di programmazione consentono a diversi robot di scambiarsi dei "messaggi" e di reagire di conseguenza.
 
 La possibilità di scambiare messaggi consente di studiare delle esperienze didattiche elaborate, ad esempio è possibile cercare di risolvere problemi dove sia richiesta la "collaborazione" tra due o più robot, oppure è possibile utilizzare un robot come sensore in grado di aiutare il secondo a portare a compimento un certo compito.
 
 ### Tinkering
-La terza esperienza era più libera: i visitatori avevano a disposizione due CoderBot liberamente programmabili per svolgere qualsiasi compito.
+La terza esperienza era la più libera: i visitatori avevano a disposizione due CoderBot liberamente programmabili per svolgere qualsiasi compito.
 
 Si partiva da un breve tutorial che guidava nella realizzazione di un semplice programma di "obstacle avoidance" per poi lasciare libertà alla fantasia.
+
+### Maker of Merit
+Ogni anno, tra i tanti progetti prensentati alla fiera, una giuria composta da Maker ed esperti in varie discipline, assegna un "attestato di merito" detto "Maker of Merit".
+
+Non si tratta di un premio vero e proprio (lo spirito della Maker Faire è collaborare e scambiare idee, non competere) tuttavia l'organizzazione ritiene giusto assegnare un riconoscimento a quei progetti ed iniziative che si sono in qualche modo distinte.
+
+![m_m]({{site.baseurl}}/img/blog/coderbot_mfr17_m_m.jpg)
+
+Quest'anno [CoderBot era tra i vincitori](http://amzn.eu/dI1AwDP), un ulteriore stimolo a continuare l'avventura e a far meglio.
