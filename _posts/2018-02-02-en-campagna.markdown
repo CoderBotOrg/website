@@ -3,14 +3,14 @@ layout: en/post
 title:  "In arrivo la campagna di crowdfunding per il CoderBot"
 subtitle: "Il 19 febbraio 2018 parte la campagna di crowdfunding per il CoderBot, un robot per giocare a
 pensare."
-splash: "blog/coderbot_campagna_splash.jpg"
+splash: "blog/coderbot_campagna_splash_01.jpg"
 date: 2018-01-30 12:00:00
 category: blog
 tags:   news
 author: CoderBot
 language: en
 ---
-![intro]({{site.baseurl}}/img/blog/coderbot_campagna_splash.jpg)
+![intro]({{site.baseurl}}/img/blog/coderbot_campagna_splash_01.jpg)
 
 Il 19 febbraio 2018 parte la campagna di crowdfunding per il CoderBot, un robot per giocare a
 pensare.
