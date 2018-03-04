@@ -113,7 +113,7 @@ ul.list-social-icons-nav {;
 }
 
 .navbar {
-  font-size: 18pt;
+  font-size: 16pt;
   min-height: 82px;
   height: 82px;
 }
@@ -155,7 +155,7 @@ ul.list-social-icons-nav {;
   }
 
   .navbar {
-    font-size: 16pt;
+    font-size: 12pt;
     min-height: 64px;
     height: 64px;
   }
@@ -208,7 +208,7 @@ ul.list-social-icons-nav {;
   }
 
   .navbar {
-    font-size: 12pt;
+    font-size: 9pt;
     min-height: 48px;
     height: 48px;
   }
@@ -264,7 +264,7 @@ ul.list-social-icons-nav {;
 	}
 
   .navbar {
-    font-size: 14pt;
+    font-size: 12pt;
   }
 }
 
