@@ -150,7 +150,7 @@ ul.list-social-icons-nav {
 }
 
 /* Responsive Styles */
-/*
+
 @media (max-width: 1199px) {
   ul.list-social-icon-size {
     font-size: 40px;
@@ -174,7 +174,7 @@ ul.list-social-icons-nav {
   .navbar-brand {
     padding-top: 0px;
     font-family: "Courier";
-    font-size: 24pt;
+    font-size: 0pt;
     height: 64px;
   }
 
@@ -194,8 +194,8 @@ ul.list-social-icons-nav {
     padding-bottom: 6px;
   }
 }
-*/
-@media (max-width: 1199px) {
+
+@media (max-width: 991px) {
   .customer-img,
   .img-related {
     margin-bottom: 30px;
@@ -227,7 +227,7 @@ ul.list-social-icons-nav {
   .navbar-brand {
     padding-top: 0px;
     font-family: "Courier";
-    font-size: 16pt;
+    font-size: 0pt;
     height: 48px;
   }
 
@@ -236,19 +236,19 @@ ul.list-social-icons-nav {
   }
 
   .navbar-logo {
-    height: 40px;
-    padding-top: 0px;
+    height: 24px;
+    padding-top: 2px;
     padding-bottom: 0px;
   }
 
   .navbar-logo-unimib {
-    height: 40px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    height: 36px;
+    padding-top: 10px;
+    padding-bottom: 2px;
   }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
   .img-portfolio {
     margin-bottom: 15px;
   }
@@ -271,12 +271,12 @@ ul.list-social-icons-nav {
   }
 
   .navbar-brand {
-    font-size: 32pt;
+    font-size: 0pt;
     padding-right: 2px;
   }
 
   .navbar {
-    font-size: 12pt;
+    font-size: 9pt;
   }
 }
 
