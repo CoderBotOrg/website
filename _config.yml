@@ -13,3 +13,6 @@ youtube_username: coderbot
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
