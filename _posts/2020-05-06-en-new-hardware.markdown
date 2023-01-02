@@ -1,6 +1,6 @@
 ---
 layout: en/post
-title: "New hardware board"
+title: "New control board for CoderBot"
 subtitle: "New motor control and I/O board for CoderBot."
 splash: "blog/coderbot_control_board_v5_splash.png"
 date: 2020-05-08 10:00:00
