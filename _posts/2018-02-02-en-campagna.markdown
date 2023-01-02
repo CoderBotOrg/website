@@ -1,8 +1,7 @@
 ---
 layout: en/post
-title:  "In arrivo la campagna di crowdfunding per il CoderBot"
-subtitle: "Il 19 febbraio 2018 parte la campagna di crowdfunding per il CoderBot, un robot per giocare a
-pensare."
+title:  "The crowdfunding campaign for the CoderBot is about to start"
+subtitle: "On 19 February 2018 the crowdfunding campaign for the CoderBot, a robot for playing to think."
 splash: "blog/coderbot_campagna_splash_01.jpg"
 date: 2018-01-30 12:00:00
 category: blog_removed
@@ -12,29 +11,29 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_campagna_splash_01.jpg)
 
-Il 19 febbraio 2018 parte la campagna di crowdfunding per il CoderBot, un robot per giocare a pensare.
+On February 19, 2018, the crowdfunding campaign for the CoderBot, a robot for playing thinking, starts.
 
-CoderBot è un robot progettato per l’uso didattico in Scuole Primarie e Secondarie. È stato “adottato” dall’Università degli Studi di Milano-Bicocca che, con questa campagna di crowdfunding, avvia un processo di sviluppo per rendere il CoderBot ancora più facile da programmare, robusto e funzionale rispetto a vari obiettivi didattici. Con i contributi che accoglieremo attraverso questa campagna di crowdfunding miglioreremo gli aspetti legati al software di programmazione e controllo, in modo da offrire a scuole, insegnanti, bambini e genitori lo strumento più adatto per imparare e divertirsi al tempo stesso.
+CoderBot is a robot designed for educational use in Primary and Secondary Schools. It was "adopted" by the University of Milano-Bicocca which, with this crowdfunding campaign, starts a development process to make the CoderBot even easier to program, robust and functional with respect to various educational objectives. With the contributions that we will receive through this crowdfunding campaign, we will improve the aspects related to programming and control software, in order to offer schools, teachers, children and parents the most suitable tool for learning and having fun at the same time.
 
-Il CoderBot è utilizzato nell’ambito delle attività di ricerca e formazione svolte dal RobotiCCS Lab, il Laboratorio di Robotica per le Scienze Cognitive e Sociali del Dipartimento di Scienze Umane per la Formazione “R. Massa” dell’Università di Milano-Bicocca.
+The CoderBot is used as part of the research and training activities carried out by the RobotiCCS Lab, the Robotics Laboratory for Cognitive and Social Sciences of the Department of Human Sciences for Education "R. Massa” of the University of Milan-Bicocca.
 
-Il team che segue il progetto e svilupperà il nuovo CoderBot è formato da Edoardo Datteri, Leonardo Mariani e Roberto Previtera.
+The team that follows the project and will develop the new CoderBot is made up of Edoardo Datteri, Leonardo Mariani and Roberto Previtera.
 
-Edoardo è ricercatore universitario in filosofia della scienza e si occupa di filosofia dell’Intelligenza Artificiale e delle scienze cognitive. Leonardo, professore associato, si occupa di ingegneria del software e sistemi auto-riparanti. Infine Roberto, project manager in ambito informatico, è un esperto di intelligenza artificiale e robotica.
+Edoardo is a university researcher in philosophy of science and deals with the philosophy of Artificial Intelligence and cognitive sciences. Leonardo, associate professor, deals with software engineering and self-healing systems. Finally Roberto, project manager in the IT field, is an expert in artificial intelligence and robotics.
 
-Il team possiede competenze specialistiche ma allo stesso tempo differenti, così da avere il necessario know-how per sviluppare un progetto che unisce robotica, didattica e innovazione.
+The team has specialized but at the same time different skills, so as to have the necessary know-how to develop a project that combines robotics, teaching and innovation.
 
-«Il nostro obiettivo – dicono Edoardo, Leonardo e Roberto – è realizzare un robot didattico facile da utilizzare e personalizzabile in base all'età degli studenti e agli obiettivi formativi dell'insegnante.
-CoderBot permetterà a scuole e docenti di migliorare l'apprendimento in ambito scientifico, informatico e tecnologico: i ragazzi potranno infatti programmare e utilizzare il robot applicando non solo conoscenze tecniche, ma anche ragionamento astratto e metodo scientifico».
+«Our goal – say Edoardo, Leonardo and Roberto – is to create an educational robot that is easy to use and can be customized according to the age of the students and the teacher's educational objectives.
+CoderBot will allow schools and teachers to improve learning in science, information technology and technology: children will in fact be able to program and use the robot by applying not only technical knowledge, but also abstract reasoning and the scientific method».
 
-La campagna, fra l’altro, è una bella opportunità per scuole e insegnanti: infatti, tra le ricompense previste per quanti vorranno sostenere il progetto, ci sono sia il CoderBot stesso, sia workshop formativi per imparare a usarlo e programmarlo per le attività in classe. Inoltre, tra le ricompense pensate per le scuole ci sono flotte da 4 e 10 CoderBot che possono essere utilizzate per didattica interattiva con gruppi numerosi di studenti.
-
-
-### La campagna durerà dal 19 febbraio al 26 aprile 2018 e si svolgerà sulla piattaforma DeRev.
-### L’obiettivo è raccogliere 5.000 euro.
-
-### Dal 19 febbraio puoi sostenere il progetto con una donazione collegandoti all’indirizzo
-### [www.derev.com/coderbot](http://www.derev.com/coderbot) e ricevendo in cambio le ricompense che abbiamo pensato per te.
+Among other things, the campaign is a great opportunity for schools and teachers: in fact, among the rewards provided for those who want to support the project, there are both the CoderBot itself and training workshops to learn how to use it and program it for class. Furthermore, among the rewards designed for schools there are fleets of 4 and 10 CoderBots that can be used for interactive teaching with large groups of students.
 
 
-Sul sito ufficiale di CoderBot trovi informazioni e approfondimenti: [www.coderbot.org](http://www.coderbot.org)
+### The campaign will run from February 19 to April 26, 2018 and will take place on the DeRev platform.
+### The goal is to raise 5,000 euros.
+
+### From 19 February you can support the project with a donation by connecting to the address
+### [www.derev.com/codebot](http://www.derev.com/coderbot) and receiving in return the rewards we have designed for you.
+
+
+On the official website of CoderBot you will find information and insights: [www.coderbot.org](http://www.coderbot.org)

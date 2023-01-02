@@ -1,7 +1,7 @@
 ---
 layout: en/post
-title:  "CoderBot al MeetMeTonight 2016: un robot per giocare a pensare"
-subtitle: "Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico."
+title:  "CoderBot at MeetMeTonight 2016: a robot to play thinking"
+subtitle: "As is now customary, CoderBot participated in MeetMeTonight, this year with three different experiences available to the public."
 splash: "blog/coderbot_mmt16_intro.jpg"
 date:   2016-10-01 12:00:00
 category: blog
@@ -11,50 +11,50 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_mmt16_intro.jpg)
 
-Come è ormai consuetudine, CoderBot ha partecipato al MeetMeTonight, quest'anno con tre esperienze diverse a disposizione del pubblico e un simpatico incontro con personaggi a dir poco "mitici".
+As is now customary, CoderBot participated in MeetMeTonight, this year with three different experiences available to the public and a nice meeting with "mythical" characters to say the least.
 
-### Il MeetMeTonight 2016
-La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.
+### The MeetMeTonight 2016
+The MeetMeTonight - Researchers' night event is organized by Italian universities with the aim of disseminating knowledge and involving people, non-experts, in the work of researchers.
 
-### Le attività con CoderBot
-Quest'anno CoderBot era presente presso lo stand del Dipartimento di Scienze Umane per la Formazione “R. Massa”, Università degli Studi di Milano-Bicocca, con tre laboratori permanenti a disposizione dei bambini e ragazzi.
+### Activities with CoderBot
+This year CoderBot was present at the stand of the Department of Human Sciences for Education “R. Massa”, University of Milan-Bicocca, with three permanent laboratories available to children and teenagers.
 
-Quest'anno i laboratori erano tre, corrispondenti a giochi didattici con diversi approcci e finalità.
+This year there were three workshops, corresponding to educational games with different approaches and purposes.
 
-### Il gioco dello scienziato
-In questo gioco, detto anche "roboetologia", i ragazzi osservano un CoderBot già programmato per muoversi in una arena delimitata in base a un algoritmo non noto all'osservatore.
+### The scientist game
+In this game, also known as "roboethology", the students observe a CoderBot already programmed to move in a delimited arena based on an algorithm unknown to the observer.
 
-Il robot assume il ruolo di un "essere sconosciuto" da osservare e descrivere.
+The robot assumes the role of an "unknown being" to observe and describe.
 
 <iframe width="640" height="270" src="https://www.youtube.com/embed/cxE1B5NhufE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-L'attività consiste quindi **nell'applicare le tecniche del metodo scientifico per ipotizzare la natura dei comportamenti assunti dal robot**: perché si muove in quel modo? Perché ogni tanto si ferma? A volte rallenta o è solo una impressione?
+The activity therefore consists in **applying the techniques of the scientific method to hypothesize the nature of the behavior assumed by the robot**: why does it move in that way? Why does it sometimes stop? Does it sometimes slow down or is it just an impression?
 
-### Caccia al tesoro
-Questo gioco sfrutta la caratteristica di CoderBot di essere dotato di una telecamera in grado di riprendere le immagini dello spazio posto di fronte al robot stesso.
+### Treasure hunt
+This game takes advantage of CoderBot's feature of being equipped with a camera capable of taking images of the space in front of the robot itself.
 
 <iframe width="1318" height="480" src="https://www.youtube.com/embed/8_wnaHMUuBw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Le immagini, acquisite nel corso dell'esecuzione del programma, sono rivedibili come filmato anche successivamente dagli utilizzatori.
+The images, acquired during the execution of the program, can be reviewed as a film even later by the users.
 
-Il gioco consiste nel programmare il robot in modo da moversi in un ambiente sconosciuto per cercare e trovare degli obiettivi di interesse (il tesoro) ed evitare degli altri obiettivi "ostili" (pirati e mostri marini).
+The game consists in programming the robot to move in an unknown environment to seek and find objectives of interest (treasure) and avoid other "hostile" objectives (pirates and sea monsters).
 
-### Il gioca del gatto e il topo
+### The cat and mouse game
 
-In questo gioco a squadre, due CoderBot impersonano rispettivamente un "predatore" (il gatto) e una "preda" (il topo).
+In this team game, two CoderBots play respectively a "predator" (the cat) and a "prey" (the mouse).
 
 <iframe width="640" height="270" src="https://www.youtube.com/embed/AH7c45HfQQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Lo scopo del gioco consiste nello scrivere un programma che, una volta eseguito, consenta al robot di raggiungere il proprio obiettivo, ovvero nel caso del gato di raggiungere il topo, mentre nel caso del topo di allontanarsi il più possibile dal gatto.
+The aim of the game is to write a program which, once executed, allows the robot to reach its goal, i.e. in the case of the cat to reach the mouse, while in the case of the mouse to get as far away from the cat as possible.
 
-Il gioco è una variazione sul tema del classico "labirinto" con la difficoltà aggiuntiva di cercare di immaginare le mosse dell'avversario.
+The game is a variation on the classic "maze" theme with the added difficulty of trying to figure out your opponent's moves.
 
-### CoderBot ospite di Topolino
+### Mickey's guest CoderBot
 
-Nel corso dell'evento inoltre CoderBot è stato ospite dello stand di Topolino, il settimanale amato da bambini e ragazzi.
+During the event, CoderBot was also a guest at the Mickey Mouse stand, the weekly magazine loved by children and teenagers.
 
 ![topolino_1]({{site.baseurl}}/img/blog/coderbot_mmt16_topolino_1.jpg)
 
-CoderBot è stato il personaggio protagonista di alcune avventure immaginate e disegnate dai ragazzi che hanno partecipato ad alcuni laboratori presso lo stand, in collaborazione con i disegnatori professionisti della testata.
+CoderBot was the protagonist of some adventures imagined and designed by the kids who took part in some workshops at the stand, in collaboration with the professional designers of the magazine.
 
 ![topolino_2]({{site.baseurl}}/img/blog/coderbot_mmt16_topolino_2.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: it/post
-title:  "A cosa servono i robot in classe"
-subtitle: "Costruendo si impara: non è una novità. E con le nuove tecnologie?"
+title:  "What are robots for in the classroom"
+subtitle: "You learn by building: this is nothing new. And what about with new technologies?"
 splash: "blog/coderbot_in_class_splash.jpg"
 date: 2017-12-15 12:00:00
 category: blog
@@ -11,56 +11,34 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_in_class_1.jpg)
 
-Costruendo si impara: non è una novità. Tutti noi, da piccoli, abbiamo tentato almeno una volta di
-realizzare oggetti più o meno fantasiosi (castelli, trenini o aquiloni). Abbiamo cercato i materiali necessari,
-progettato la costruzione dell’oggetto, tagliato e incollato pezzi di cartone e infine abbiamo messo tutto
-insieme per poi scoprire che qualcosa non funzionava. Dunque siamo andati in cerca dei nostri errori e
-abbiamo provato a correggerli. E in molti casi siamo riusciti a realizzare quello che volevamo, perché lo
-volevamo veramente.
+You learn by building: this is not a new concept. All of us, as children, have tried at least once to make more or less imaginative objects (castles, trains or kites). We looked for the necessary materials, designed the construction of the object, cut and glued pieces of cardboard and finally put it all together only to discover that something was wrong. So we went looking for our mistakes and tried to correct them. And in many cases we managed to achieve what we wanted, because we really wanted it.
 
-Facendo tutto ciò, stavamo imparando molte cose. Stavamo imparando a tagliare e decorare cose, a
-progettare un piano dei lavori e soprattutto stavamo pensando come realizzare quello che desideravamo e
-come rimediare ai nostri errori.
+By doing all of this, we were learning a lot. We were learning how to cut and decorate things, how to design a work plan and above all we were thinking how to make what we wanted and how to fix our mistakes.
 
-I robot – per lo meno quelli come CoderBot – servono per costruire. Con una particolarità. Rispetto al
-cartone, al meccano o al LEGO, permettono di costruire qualcosa di straordinario: un comportamento.
-Pensiamo a CoderBot. Si può muovere sulle sue ruote come un piccolo veicolo e ha sensori di vario tipo.
-Tramite un semplice linguaggio di programmazione, che viene appreso senza gran difficoltà da bambini
-relativamente piccoli (6 anni), si può chiedere a CoderBot di muoversi in modi particolari a seconda di ciò
-che viene percepito dai sensori. Si può chiedere a CoderBot di andare in giro per la stanza e sterzare
-quando c’è qualche oggetto vicino, di rifugiarsi nelle zone scure della casa come fanno gli scarafaggi,
-oppure di cercare la luce come fanno le falene. Si può chiedere a CoderBot di pronunciare “Mela!” quando
-vede una mela o di rincorrere una palla rossa. Si può persino chiedere a un CoderBot di dire ad un altro
-CoderBot cosa deve fare.
+Robots – at least ones like CoderBot – are for building. With a particularity. Compared to cardboard, Meccano or LEGO, they allow you to build something extraordinary: a behavior.
 
-Tutto questo lo si può fare a casa, da soli, oppure in classe, lavorando con gli insegnanti e i propri compagni.
+Let's think about CoderBot. It can roll on its wheels like a small vehicle and has sensors of various types.
 
-Cosa si impara, programmando un CoderBot? Dipende. Se lo si propone come strumento didattico per
-attività scolastiche (come spesso accade), la parte del leone è dell’insegnante: le attività che propone, il
-modo in cui organizza i lavori di gruppo e soprattutto i momenti di riflessione – ovvero quelli in cui i
-bambini riflettono tutti insieme su cosa stanno facendo e perché, su cosa hanno imparato e su come hanno
-fatto a impararlo. In breve, la questione dipende da come CoderBot è utilizzato in classe: anche su questo il
-Dipartimento di Scienze della Formazione della Bicocca, con il suo RobotiCSS Lab, conduce molte attività di
-ricerca sperimentale.
+Through a simple programming language, which is learned without great difficulty by relatively young children (6 years), CoderBot can be asked to move in particular ways depending on what is perceived by the sensors.
 
-Resta il fatto che, finora, molti insegnanti hanno utilizzato CoderBot nelle loro classi con grande
-soddisfazione loro e dei bambini.
+You can ask CoderBot to walk around the room and steer when there is some object nearby, to take refuge in the dark areas of the house like cockroaches do, or to look for the light like moths do.
 
-In tanti casi l’obiettivo degli insegnanti era quello di stimolare i bambini a ragionare, con tutto quello che
-questa parola significa: in effetti per programmare un comportamento attraverso CoderBot bisogna
-ragionare moltissimo. Bisogna fare previsioni, esperimenti, dare spiegazioni, decidere quale insieme di
-comandi fornisca al robot la “logica” che desideriamo vedere nel suo comportamento.
+You can ask CoderBot to say “Apple!” when he sees an apple or chasing a red ball. You can even ask one CoderBot to tell another CoderBot what to do.
 
-Negli studi di robo-etologia condotti dal RobotiCSS Lab e pubblicati sull’[IEEE Robotics and Automation
-Magazine](http://ieeexplore.ieee.org/document/7470255/?section=abstract), i bambini non dovevano
-programmare il CoderBot ma scoprire come era programmato a partire dall’osservazione del suo
-comportamento. Scoperta, teorizzazione, sperimentazione, osservazione: bambini scienziati alle prese con
-un animaletto robotico.
+All this can be done at home, alone, or in the classroom, working with teachers and classmates.
 
-In altri casi l’obiettivo era più disciplinare. Sono stati fatti percorsi di geografia, in cui i bambini dovevano
-ricostruire la struttura di un territorio sulla base delle immagini “in soggettiva” acquisite da CoderBot, come
-nei rover su Marte, ovvero le piccole sonde progettate per muoversi sulla superficie di altri pianeti.
+What do you learn by programming a CoderBot? Depends. If it is proposed as a didactic tool for school activities (as often happens), the lion's share goes to the teacher: the activities he proposes, the way he organizes group work and above all the moments of reflection - i.e. those in which the children all reflect together on what they are doing and why, on what they have learned and how they have learned it.
 
-Sono stati elaborati percorsi che puntavano allo sviluppo di capacità matematiche, geometriche, artistiche
-e persino linguistiche. La creatività degli insegnanti è senza fine e CoderBot, con la sua telecamera, i suoi
-algoritmi di visione artificiale e la sua facilità di programmazione, non può che alimentarla.
+In short, the question depends on how CoderBot is used in the classroom: the Bicocca Department of Education Sciences, with its RobotiCSS Lab, conducts many experimental research activities on this too.
+
+The fact remains that, so far, many teachers have used CoderBot in their classes with great satisfaction for them and for the children.
+
+In many cases the goal of the teachers was to stimulate children to think, with all that this word means: in fact, to plan behavior through CoderBot you need to think a lot.
+
+We need to make predictions, experiment, give explanations, decide which set of commands gives the robot the "logic" we want to see in its behavior.
+
+In the robo-ethology studies conducted by the RobotiCSS Lab and published in the [IEEE Robotics and Automation Magazine](http://ieeexplore.ieee.org/document/7470255/?section=abstract), children did not have to program the CoderBot but find out how it was programmed starting from the observation of his own behavior. Discovery, theorizing, experimentation, observation: child scientists grappling with a robotic pet.
+
+In other cases the goal was more disciplinary. Geography routes were made, in which the children had to reconstruct the structure of a territory on the basis of "subjective" images acquired by CoderBot, such as in rovers on Mars, i.e. the small probes designed to move on the surface of other planets.
+
+Pathways have been developed that aimed at the development of mathematical, geometric and artistic skills and even linguistics. The creativity of teachers is endless and CoderBot, with its camera, its computer vision algorithms and its ease of programming, can only fuel it.

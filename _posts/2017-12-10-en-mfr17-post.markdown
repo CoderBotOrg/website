@@ -1,7 +1,7 @@
 ---
 layout: en/post
 title:  "CoderBot at Maker Faire Rome 2017"
-subtitle: "\"Con CoderBot si impara giocando\""
+subtitle: "\"With CoderBot you learn by playing\""
 splash: "blog/coderbot_mfr17_post_splash.jpg"
 date: 2017-12-10 12:00:00
 category: blog
@@ -11,17 +11,48 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_mfr17_post_splash.jpg)
 
-Quest'anno CoderBot ha partecipato alla Maker Faire Rome con uno stand dedicato, riscuotendo grande successo di pubblico e ... di critica!
+This year CoderBot took part in the Maker Faire Rome with a dedicated stand, enjoying great success with the public and ... with critics!
 
-### La Maker Faire Rome
-La Maker Faire Rome è l'edizione italiana della Maker Faire orinariamente nata a San Francisco. E' il luogo dove "makers" di tutto il mondo si incontrano per presentare e scambiare idee e progetti.
+### The Maker Faire Rome
+The Maker Faire Rome is the Italian edition of the Maker Faire originally born in San Francisco. It is the place where "makers" from all over the world meet to present and exchange ideas and projects.
 
-![stand]({{site.baseurl}}/img/blog/coderbot_mfr17_stand.jpg)
+### The CoderBot proposal
 
-### La proposta CoderBot
+![stand]({{site.baseurl}}/img/blog/codebot_mfr17_stand_1.jpg)
 
-### Programmazione tangibile
+CoderBot was present with three different ways of using the robot, corresponding to different educational activities aimed at children aged 3 and over.
 
-### Robot che collaborano
+### Tangible programming
+The first experience was aimed at children aged 3 to 5 and had the particularity of allowing children to interact, or rather "program" the robot without needing to use a computer or tablet, but using small cards depicting images of various type (road signs and various types of fruit).
+
+![tangible]({{site.baseurl}}/img/blog/codebot_mfr17_stand_2.jpg)
+
+Thanks to the video camera and artificial vision functions, the robot was able to "recognize" the images placed on the cards and behave accordingly.
+In the case of road signs, if the robot identified an arrow in a certain direction, it moved accordingly, while in the case of fruit, it made movements or made sounds.
+
+<iframe width="100%" height="270" src="https://www.youtube.com/embed/C_3F0EWALNc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+This type of game has aroused great interest in children, the possibility of being able to interact with the robot using "physical" objects instead of the classic computer has simplified the interaction between children and the robot.
+
+### Robots that cooperate
+In this second experience, dedicated to 10-year-old boys and girls, it was possible to write programs that could exploit the fact that robots were able to communicate with each other.
+
+![swarm]({{site.baseurl}}/img/blog/codebot_mfr17_swarm_1.jpg)
+
+These programming language innovations allow different robots to exchange "messages" and react accordingly.
+
+The possibility of exchanging messages makes it possible to study elaborate didactic experiences, for example it is possible to try to solve problems where "collaboration" between two or more robots is required, or it is possible to use a robot as a sensor capable of helping the second to carry completing a certain task.
 
 ### Tinkering
+The third experience was the freest: visitors had at their disposal two freely programmable CoderBots to perform any task.
+
+It started with a short tutorial that guided the creation of a simple "obstacle avoidance" program and then left the imagination free.
+
+### Maker of Merit
+Every year, among the many projects presented at the fair, a jury made up of Makers and experts in various disciplines awards a "certificate of merit" known as the "Maker of Merit".
+
+This is not a real award (the spirit of the Maker Faire is to collaborate and exchange ideas, not compete) however the organization deems it right to award recognition to those projects and initiatives that have distinguished themselves in some way.
+
+![m_m]({{site.baseurl}}/img/blog/codebot_mfr17_m_m.jpg)
+
+This year [CoderBot was among the winners](http://amzn.eu/dI1AwDP), a further incentive to continue the adventure and do better.

@@ -1,6 +1,6 @@
 ---
 layout: it/post
-title: "The new CoderBot is born"
+title: "Il nuovo CoderBot è nato"
 subtitle: "Ci siamo, il nuovo CoderBot è pronto!"
 splash: "blog/coderbot_parade_splash_01.jpg"
 date: 2019-02-07 10:00:00

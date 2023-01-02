@@ -1,9 +1,9 @@
 ---
 layout: en/post
-title:  "L’Università Milano-Bicocca e il progetto CoderBot"
-subtitle: "Innovazione, formazione, scoperta e scienza. Questi sono i principali ingredienti di
-CorderBot, il progetto di robotica educativa sul quale l’Università di Milano-Bicocca
-ha deciso di puntare."
+title:  "Università Milano-Bicocca and the CoderBot project"
+subtitle: "Innovation, training, discovery and science. These are the main ingredients of
+CorderBot, the educational robotics project on which the University of Milano-Bicocca
+decided to bet."
 splash: "blog/coderbot_unimib_1_post_splash.jpg"
 date: 2018-01-01 12:00:00
 category: blog
@@ -13,28 +13,25 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_unimib_1_post_splash.jpg)
 
-Innovazione, formazione, scoperta e scienza. Questi sono i principali ingredienti di
-CorderBot, il progetto di robotica educativa sul quale l’Università di Milano-Bicocca
-ha deciso di puntare. Al progetto CoderBot lavorano insieme il Dipartimento di
-Scienze Umane della Formazione e il Dipartimento di Informatica, mettendo a
-disposizione le rispettive competenze.
+Innovation, training, discovery and science. These are the main ingredients of
+CorderBot, the educational robotics project on which the University of Milano-Bicocca
+decided to bet. The Department of Human Sciences of Education and the Department of Computer Science, putting a their respective responsibilities.
 
-Nei mesi scorsi l’Ateneo ha sottoscritto un accordo per gestire lo sviluppo del
-CoderBot ed esplorare i possibili utilizzi del robot.
+In recent months, the University has signed an agreement to manage the development of
+CoderBot and explore the possible uses of the robot.
 
-L’Università di Milano-Bicocca ha scelto di sostenere questo progetto perché la
-didattica interattiva e robotica rappresenta una delle principali linee di ricerca su cui
-l’Ateneo sta lavorando: in particolar modo la didattica innovativa rivolta a bambini e
-Scuole è considerata di primaria importanza per gli impatti concreti che ha sull’intera
-società. In tal senso il progetto beneficia della continua sperimentazione di nuove
-metodologie e soluzioni tecniche sviluppate con il rigore scientifico che
-contraddistingue l’attività dei laboratori di ricerca dell’Ateneo.
+The University of Milano-Bicocca has chosen to support this project because the
+interactive teaching and robotics represents one of the main lines of research on which
+the University is working: in particular the innovative teaching aimed at children and
+Schools is considered of primary importance for the concrete impacts it has on the whole
+society. In this sense, the project benefits from the continuous experimentation of new ones methodologies and technical solutions developed with the scientific rigor that
+distinguishes the activity of the University's research laboratories.
 
-La campagna del CoderBot è la prima che l’Ateneo sperimenta nell’ottica di
-sviluppare un’attività di crowdfunding stabile a disposizione della sua community:
-studenti ed ex-studenti, ricercatori, docenti, assegnisti e dottorandi.
+The CoderBot campaign is the first that the University experiments with a view to
+develop a stable crowdfunding activity available to its community:
+students and ex-students, researchers, professors, research fellows and doctoral students.
 
-Il crowdfunding di CoderBot rappresenta un primo passo per sviluppare un nuovo
-modo per finanziare la ricerca.
+CoderBot crowdfunding represents a first step to develop a new
+way to fund research.
 
 [Scopri come sostenere il CoderBot](/blog/2018/02/02/it-campagna.html).

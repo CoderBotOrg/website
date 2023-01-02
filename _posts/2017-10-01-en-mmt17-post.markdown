@@ -1,7 +1,7 @@
 ---
 layout: en/post
-title:  "CoderBot al MeetMeTonight 2017: un robot per giocare a pensare"
-subtitle: "Anche quest'anno grande successo con i tre laboratori didattico aperti al pubblico."
+title:  "CoderBot at MeetMeTonight 2017: a robot to play thinking"
+subtitle: "Great success again this year with the three educational workshops open to the public."
 splash: "blog/coderbot_mmt17_post_splash.jpg"
 date:   2017-10-01 12:00:00
 category: blog
@@ -11,16 +11,15 @@ language: en
 ---
 ![intro]({{site.baseurl}}/img/blog/coderbot_mmt17_post_splash.jpg)
 
-Come di consueto CoderBot ha partecipato al MeetMeTonight. Anche in questa edizione 2017 erano disponibili diversi laboratori aperti al pubblico.
+As usual CoderBot participated in the MeetMeTonight. Also in this 2017 edition there were several workshops open to the public.
 
-### Il MeetMeTonight 2017
-La manifestazione MeetMeTonight - La notte dei ricercatori, è organizzata dalle università italiane con l’obiettivo di divulgare la conoscenza e coinvolgere le persone, i non addetti ai lavori, nell’operato dei ricercatori.
+### The MeetMeTonight 2017
+The MeetMeTonight - Researchers' night event is organized by Italian universities with the aim of disseminating knowledge and involving people, non-experts, in the work of researchers.
 
-### Le attività con CoderBot
-Quest'anno CoderBot era presente presso lo stand del Dipartimento di Scienze Umane per la Formazione “R. Massa”, Università degli Studi di Milano-Bicocca, con tre laboratori permanenti a disposizione dei bambini e ragazzi.
+### Activities with CoderBot
+This year CoderBot was present at the stand of the Department of Human Sciences for Education “R. Massa”, University of Milan-Bicocca, with three permanent laboratories available to children and teenagers.
 
-Dei tre laboratori previsti quest'anno, due erano simili a quanto presentato l'anno precedente, ovvero "Il gioco dello Scienziato" e "Il Gatto e il Topo" mentre il terzo, "Tinkering" era orientato a ragazzi più grandi o insegnanti che desiderassero avvicinarsi al CoderBot come strumento didattico.
-
+Of the three workshops planned this year, two were similar to those presented the previous year, namely "The Game of the Scientist" and "The Cat and the Mouse" while the third, "Tinkering" was oriented towards older children or teachers who wish to approach the CoderBot as a teaching tool.
 ### CoderBot Tinkering
 
 ![tinkering]({{site.baseurl}}/img/blog/coderbot_mmt17_tinkering.jpg)
