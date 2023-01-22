@@ -3,7 +3,7 @@ layout: it/post
 title: "Nuova scheda di controllo per CoderBot"
 subtitle: "Nuova scheda di controllo con I/O aggiuntivi che consente di pilotare gli encoder dei motori e altro ancora."
 splash: "blog/coderbot_control_board_v5_splash.png"
-date: 2019-02-07 10:00:00
+date: 2020-05-08 10:00:00
 category: blog
 tags: news
 author: CoderBot
